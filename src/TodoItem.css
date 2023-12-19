@@ -1,0 +1,28 @@
+.todo-item {
+    display: flex;
+    align-items: left;
+    margin: 10px 0;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+  }
+   
+  .todo-item input {
+    margin-right: 10px;
+  }
+  
+  .todo-item button {
+    margin-left: auto;
+    background-color: rgb(8, 83, 164);
+    color: #fff;
+    border: none;
+    padding: 8px;
+    padding-left: 15px;
+    cursor: grab ;
+    border-radius: 5px;
+  }
+
+
+
+  
+  
